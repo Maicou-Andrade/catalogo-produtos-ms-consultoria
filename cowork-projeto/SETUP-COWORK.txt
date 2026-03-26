@@ -1,0 +1,186 @@
+================================================================================
+PASSO A PASSO — CONFIGURAR NO COWORK
+================================================================================
+
+PASSO 1: CLONAR O REPOSITÓRIO PARA SUA MÁQUINA
+================================================================================
+
+Abre o terminal (ou Git Bash) e roda:
+
+git clone https://github.com/Maicou-Andrade/catalogo-produtos-ms-consultoria.git
+
+Isso vai criar uma pasta "catalogo-produtos-ms-consultoria" no seu computador.
+Dentro dela está tudo: postagens, imagens, controle, SKILL.md.
+
+A pasta que o Cowork precisa acessar é:
+catalogo-produtos-ms-consultoria/cowork-projeto/
+
+
+PASSO 2: CRIAR O PROJETO NO COWORK
+================================================================================
+
+1. Abre o Claude Desktop
+2. Clica na aba "Cowork"
+3. Clica em "Projetos" (ou Projects) no menu lateral
+4. Clica em "+ Novo Projeto"
+5. Nome: "Comunidade WhatsApp — Supermercados"
+6. Aponta para a pasta: catalogo-produtos-ms-consultoria/cowork-projeto/
+7. Salva
+
+
+PASSO 3: VERIFICAR SE O COWORK LEU O SKILL.md
+================================================================================
+
+Dentro do projeto, manda uma mensagem de teste:
+
+"Leia o SKILL.md e o controle.txt e me diz qual é a próxima postagem a ser enviada."
+
+O Cowork deve responder algo como:
+"A próxima postagem é semana01-terca.txt — BI Excesso de Estoque — apenas texto, sem imagem."
+
+Se respondeu certo, está funcionando.
+
+
+PASSO 4: CONFIGURAR AS TAREFAS AGENDADAS
+================================================================================
+
+Dentro do projeto, digita /schedule (ou vai em Tarefas Agendadas no menu)
+
+TAREFA 1 — POSTAGEM DE TERÇA
+Nome: "Postagem Terça — Comunidade WhatsApp"
+Frequência: Toda terça-feira
+Horário: 07:00
+
+Instrução:
+"Leia o arquivo controle.txt na pasta do projeto. Identifique a próxima
+postagem com status PENDENTE que seja de TERÇA. Abra o arquivo correspondente
+na pasta postagens/. Se a postagem indicar [IMAGEM:], localize a imagem na
+pasta imagens-postagens/. Abra o WhatsApp (Web ou Desktop), navegue até a
+comunidade de supermercados, envie a imagem (se houver) com o texto como
+legenda, ou apenas o texto. Após confirmar o envio, atualize o controle.txt
+trocando PENDENTE por ENVIADO e adicionando a data e hora."
+
+TAREFA 2 — POSTAGEM DE QUINTA
+Nome: "Postagem Quinta — Comunidade WhatsApp"
+Frequência: Toda quinta-feira
+Horário: 12:00
+
+Instrução:
+"Leia o arquivo controle.txt na pasta do projeto. Identifique a próxima
+postagem com status PENDENTE que seja de QUINTA. Abra o arquivo correspondente
+na pasta postagens/. Se a postagem indicar [IMAGEM:], localize a imagem na
+pasta imagens-postagens/. Abra o WhatsApp (Web ou Desktop), navegue até a
+comunidade de supermercados, envie a imagem (se houver) com o texto como
+legenda, ou apenas o texto. Após confirmar o envio, atualize o controle.txt
+trocando PENDENTE por ENVIADO e adicionando a data e hora."
+
+
+PASSO 5: TESTE MANUAL ANTES DE AUTOMATIZAR
+================================================================================
+
+Antes de deixar rodando sozinho, faz um teste manual:
+
+1. Dentro do projeto Cowork, manda:
+   "Execute a próxima postagem agora. Leia o controle, identifique a postagem
+   pendente, abra o WhatsApp e me mostre o que vai enviar antes de enviar."
+
+2. O Cowork vai te mostrar o texto e pedir confirmação
+3. Confirma e vê se ele consegue:
+   - Abrir o WhatsApp
+   - Encontrar a comunidade
+   - Colar o texto
+   - Enviar
+   - Atualizar o controle.txt
+
+Se tudo funcionar, aí sim ativa as tarefas agendadas.
+
+
+PASSO 6: PENDÊNCIA — IMAGEM DA SPARTTO
+================================================================================
+
+A postagem da semana03-quinta pede um print do dashboard da Spartto.
+Você precisa:
+
+1. Acessar a plataforma Spartto
+2. Tirar um print do dashboard com os disparos
+3. Salvar como:
+   cowork-projeto/imagens-postagens/semana03-quinta-spartto-dashboard.png
+
+Sem essa imagem, a postagem da semana 3 quinta vai como texto puro.
+
+
+================================================================================
+RESUMO DO QUE ESTÁ PRONTO
+================================================================================
+
+cowork-projeto/
+├── SKILL.md                          ← Cérebro do Cowork (instruções)
+├── controle.txt                      ← Controle de envios (PENDENTE/ENVIADO)
+├── postagens/                        ← 24 textos prontos
+│   ├── semana01-terca.txt
+│   ├── semana01-quinta.txt
+│   ├── semana02-terca.txt
+│   ├── semana02-quinta.txt
+│   ├── semana03-terca.txt
+│   ├── semana03-quinta.txt
+│   ├── semana04-terca.txt
+│   ├── semana04-quinta.txt
+│   ├── semana05-terca.txt
+│   ├── semana05-quinta.txt
+│   ├── semana06-terca.txt
+│   ├── semana06-quinta.txt
+│   ├── semana07-terca.txt
+│   ├── semana07-quinta.txt
+│   ├── semana08-terca.txt
+│   ├── semana08-quinta.txt
+│   ├── semana09-terca.txt
+│   ├── semana09-quinta.txt
+│   ├── semana10-terca.txt
+│   ├── semana10-quinta.txt
+│   ├── semana11-terca.txt
+│   ├── semana11-quinta.txt
+│   ├── semana12-terca.txt
+│   └── semana12-quinta.txt
+└── imagens-postagens/                ← 9 imagens para postagens com print
+    ├── semana01-quinta-excesso.png
+    ├── semana02-quinta-acompanhamento-cliente.png
+    ├── semana04-quinta-viagens-ocupacao.png
+    ├── semana05-quinta-chamados-nps.png
+    ├── semana06-quinta-ruptura.png
+    ├── semana07-quinta-uso-consumo.png
+    ├── semana08-quinta-alertas-projetos.png
+    ├── semana10-quinta-contratos.png
+    └── semana11-quinta-hospedagem-relatorio.png
+
+
+================================================================================
+CALENDÁRIO RESUMO — 12 SEMANAS / 24 POSTAGENS
+================================================================================
+
+Sem 01: BI Excesso .............. Terça (texto) + Quinta (texto + imagem)
+Sem 02: Chamados Financeiros .... Terça (texto) + Quinta (texto + imagem)
+Sem 03: Spartto WhatsApp ........ Terça (texto) + Quinta (texto + imagem*)
+Sem 04: Gestão Viagens .......... Terça (texto) + Quinta (texto + imagem)
+Sem 05: Gerenc. Chamados ........ Terça (texto) + Quinta (texto + imagem)
+Sem 06: BI Ruptura .............. Terça (texto) + Quinta (texto + imagem)
+Sem 07: Uso e Consumo ........... Terça (texto) + Quinta (texto + imagem)
+Sem 08: Projetos e Metas ........ Terça (texto) + Quinta (texto + imagem)
+Sem 09: Chamados Fin. + OFERTA .. Terça (texto) + Quinta (OFERTA texto)
+Sem 10: Contratos ............... Terça (texto) + Quinta (texto + imagem)
+Sem 11: Hospedagem .............. Terça (texto) + Quinta (texto + imagem)
+Sem 12: Spartto + OFERTA GERAL .. Terça (texto) + Quinta (OFERTA GERAL)
+
+* imagem pendente — precisa print da Spartto
+
+
+================================================================================
+APÓS 12 SEMANAS
+================================================================================
+
+Quando todas as 24 postagens estiverem ENVIADO, o ciclo acabou.
+
+Opções:
+1. Criar novas postagens com novos ângulos (workflow cadastro, chat corporativo,
+   site CRM, etc.) e reiniciar o controle
+2. Repetir o ciclo com dados atualizados
+3. Me procurar pra montar o ciclo 2 :)
