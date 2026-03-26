@@ -1,0 +1,21 @@
+[IMAGEM: imagens-postagens/semana07-quinta-uso-consumo.png]
+
+3.412 produtos cadastrados.
+15 departamentos.
+8 lojas.
+
+Cada requisição de material passa por aprovação do gestor antes de virar pedido.
+
+O sistema mede o tempo de cada etapa:
+→ Da abertura à aprovação
+→ Da aprovação ao pedido
+→ Do pedido à entrega
+
+Se um setor demora 3 dias pra aprovar e outro aprova em 2 horas, você vê na hora. E age.
+
+Isso não é burocracia. É controle.
+
+Quer ver como funciona? Me manda um oi.
+
+Maicou Andrade
+MS Consultoria

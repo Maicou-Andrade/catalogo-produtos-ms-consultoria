@@ -1,0 +1,20 @@
+[IMAGEM: imagens-postagens/semana11-quinta-hospedagem-relatorio.png]
+
+Relatório real de hospedagem:
+
+→ 20 diárias no período
+→ Controle por colaborador e cargo
+→ Dias em hotel vs dias em casa
+→ Valor da diária por tipo
+→ Total geral com aprovação do gestor
+
+Antes: reserva por telefone, sem registro, sem comparação de preço.
+
+Depois: o sistema mostra o hotel mais barato, sugere quarto compartilhado, e o gestor aprova antes de gastar.
+
+Não é controle por controle. É visibilidade pra decidir melhor.
+
+Quer ver? Me manda um oi.
+
+Maicou Andrade
+MS Consultoria

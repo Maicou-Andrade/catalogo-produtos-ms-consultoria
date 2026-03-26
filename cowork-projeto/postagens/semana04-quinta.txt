@@ -1,0 +1,19 @@
+[IMAGEM: imagens-postagens/semana04-quinta-viagens-ocupacao.png]
+
+Ocupação média: 0.8 passageiro por viagem.
+Meta: acima de 2.5.
+
+Esse é o número real de um atacarejo com 20 veículos.
+
+O sistema mostra em tempo real:
+→ Quem está viajando
+→ Pra onde
+→ Quantas vagas sobrando
+→ Oferece carona automática pra outros colaboradores
+
+E ainda detecta viagens duplicadas. Dois carros indo pro mesmo destino no mesmo dia? O sistema avisa antes de sair.
+
+Quer ver funcionando? Me manda um oi.
+
+Maicou Andrade
+MS Consultoria

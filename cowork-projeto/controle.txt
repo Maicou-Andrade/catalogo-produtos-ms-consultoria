@@ -1,0 +1,72 @@
+================================================================================
+CONTROLE DE POSTAGENS — COMUNIDADE WHATSAPP MS CONSULTORIA
+================================================================================
+Última atualização: 26/03/2026
+================================================================================
+
+INSTRUÇÕES:
+- O Cowork deve ler este arquivo antes de cada envio
+- Identificar a primeira linha com status PENDENTE
+- Após enviar, alterar o status para ENVIADO e adicionar data/hora
+- Não pular postagens — seguir a ordem
+
+================================================================================
+SEMANA | DIA    | ARQUIVO                  | IMAGEM | PRODUTO                    | STATUS   | DATA ENVIO
+================================================================================
+S01   | TERCA  | semana01-terca.txt       | NÃO    | BI — Excesso               | PENDENTE |
+S01   | QUINTA | semana01-quinta.txt      | SIM    | BI — Excesso               | PENDENTE |
+S02   | TERCA  | semana02-terca.txt       | NÃO    | Chamados Financeiros       | PENDENTE |
+S02   | QUINTA | semana02-quinta.txt      | SIM    | Chamados Financeiros       | PENDENTE |
+S03   | TERCA  | semana03-terca.txt       | NÃO    | Spartto WhatsApp           | PENDENTE |
+S03   | QUINTA | semana03-quinta.txt      | NOTA1  | Spartto WhatsApp           | PENDENTE |
+S04   | TERCA  | semana04-terca.txt       | NÃO    | Gestão de Viagens          | PENDENTE |
+S04   | QUINTA | semana04-quinta.txt      | SIM    | Gestão de Viagens          | PENDENTE |
+S05   | TERCA  | semana05-terca.txt       | NÃO    | Gerenc. Chamados           | PENDENTE |
+S05   | QUINTA | semana05-quinta.txt      | SIM    | Gerenc. Chamados           | PENDENTE |
+S06   | TERCA  | semana06-terca.txt       | NÃO    | BI — Ruptura               | PENDENTE |
+S06   | QUINTA | semana06-quinta.txt      | SIM    | BI — Ruptura               | PENDENTE |
+S07   | TERCA  | semana07-terca.txt       | NÃO    | Uso e Consumo              | PENDENTE |
+S07   | QUINTA | semana07-quinta.txt      | SIM    | Uso e Consumo              | PENDENTE |
+S08   | TERCA  | semana08-terca.txt       | NÃO    | Projetos e Metas           | PENDENTE |
+S08   | QUINTA | semana08-quinta.txt      | SIM    | Projetos e Metas           | PENDENTE |
+S09   | TERCA  | semana09-terca.txt       | NÃO    | Chamados Financeiros (2)   | PENDENTE |
+S09   | QUINTA | semana09-quinta.txt      | NÃO    | OFERTA — Chamados Financ.  | PENDENTE |
+S10   | TERCA  | semana10-terca.txt       | NÃO    | Contratos e Terceiros      | PENDENTE |
+S10   | QUINTA | semana10-quinta.txt      | SIM    | Contratos e Terceiros      | PENDENTE |
+S11   | TERCA  | semana11-terca.txt       | NÃO    | Controle de Hospedagem     | PENDENTE |
+S11   | QUINTA | semana11-quinta.txt      | SIM    | Controle de Hospedagem     | PENDENTE |
+S12   | TERCA  | semana12-terca.txt       | NÃO    | Spartto WhatsApp (2)       | PENDENTE |
+S12   | QUINTA | semana12-quinta.txt      | NÃO    | OFERTA GERAL — Fechamento  | PENDENTE |
+
+================================================================================
+NOTAS
+================================================================================
+NOTA1: A imagem da Spartto (semana03-quinta) precisa ser um print do dashboard
+       da plataforma Spartto. O Maicou deve fornecer esse print ou tirar um
+       screenshot da plataforma e salvar como:
+       imagens-postagens/semana03-quinta-spartto-dashboard.png
+
+================================================================================
+IMAGENS DISPONÍVEIS (pasta imagens-postagens/)
+================================================================================
+semana01-quinta-excesso.png              → Dashboard de excesso BI
+semana02-quinta-acompanhamento-cliente.png → Visão do cliente chamado financeiro
+semana04-quinta-viagens-ocupacao.png     → Dashboard viagens ocupação
+semana05-quinta-chamados-nps.png         → Avaliação/NPS chamados
+semana06-quinta-ruptura.png              → Dashboard ruptura BI
+semana07-quinta-uso-consumo.png          → Dashboard uso e consumo
+semana08-quinta-alertas-projetos.png     → Alertas do sistema projetos
+semana10-quinta-contratos.png            → Lançamentos de contratos
+semana11-quinta-hospedagem-relatorio.png → Relatório Swile hospedagem
+
+================================================================================
+COMO O COWORK DEVE USAR ESTE ARQUIVO
+================================================================================
+1. Leia este arquivo
+2. Encontre a primeira linha com PENDENTE
+3. Pegue o nome do arquivo na coluna ARQUIVO
+4. Abra o arquivo correspondente na pasta postagens/
+5. Verifique se tem IMAGEM (coluna IMAGEM = SIM)
+6. Se SIM, localize a imagem na pasta imagens-postagens/
+7. Envie na comunidade WhatsApp (imagem + texto como legenda, ou só texto)
+8. Volte aqui e troque PENDENTE por ENVIADO e adicione a data/hora
