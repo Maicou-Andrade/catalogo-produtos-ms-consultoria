@@ -1,0 +1,16 @@
+Esse é o painel real de ruptura de um atacarejo.
+
+GAP de venda: R$ 547 mil.
+GAP de lucro: R$ 193 mil.
+
+Por setor, você vê exatamente onde está a falha:
+- Hortifruti: 7,8%
+- Mercearia Líquida: 14,9%
+- Mercearia Doce: 10,2%
+- Açougue: 3,8%
+
+Com esses dados, o comprador sabe exatamente o que repor e o que priorizar. Não fica no achismo.
+
+O sistema ainda mostra giro diário, última venda, última entrada e pedidos pendentes.
+
+Quer ver o seu cenário? Responde QUERO.

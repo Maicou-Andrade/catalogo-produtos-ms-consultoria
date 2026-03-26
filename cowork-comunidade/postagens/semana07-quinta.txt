@@ -1,0 +1,14 @@
+3.412 produtos cadastrados. 15 departamentos. 8 lojas.
+
+Cada requisição de material passa por aprovação do gestor antes de virar pedido de compra.
+
+O sistema mede o tempo de cada etapa:
+- Da abertura à aprovação: 4.647 min
+- Da aprovação ao pedido: 6.853 min
+- Do pedido à entrega: 6.225 min
+
+Isso não é burocracia. É controle.
+
+Quando você vê os números, descobre onde o gargalo está e corrige antes de virar problema.
+
+Quer ver como funciona? Me manda um oi.

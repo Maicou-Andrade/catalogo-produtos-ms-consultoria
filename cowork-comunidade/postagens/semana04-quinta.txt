@@ -1,0 +1,15 @@
+Ocupação média: 0.8 passageiro por viagem.
+Meta: acima de 2.5.
+
+Esse número veio de um painel real de gestão de viagens corporativas.
+
+O sistema mostra em tempo real:
+- Quem está viajando e pra onde
+- Quantas vagas sobrando em cada carro
+- Carona automática pra outros colaboradores
+- KM rodados por tipo de viagem
+- Viagens duplicadas detectadas
+
+Em 30 dias: 31 viagens, 11.459 km rodados, e oportunidade clara de reduzir custo.
+
+Quer ver funcionando? Me manda um oi.

@@ -1,0 +1,17 @@
+28 alertas pendentes.
+19 atividades inativas há mais de 10 dias.
+9 projetos atrasados.
+
+Isso é um painel real de gestão de projetos.
+
+O sistema mostra por responsável quem está devendo. Sem achismo, sem opinião. Só dados.
+
+A diretoria vê tudo em tempo real:
+- Projetos por status e por equipe
+- Atividades por colaborador
+- Progresso % de cada entrega
+- Alertas automáticos de inatividade
+
+Quando o dado fala, a reunião muda de tom.
+
+Quer esse nível de controle? Me chama.

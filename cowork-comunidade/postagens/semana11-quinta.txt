@@ -1,0 +1,14 @@
+Relatório real de hospedagem corporativa:
+
+20 diárias no período.
+Controle por colaborador, cargo, dias hotel vs dias casa.
+Valor da diária diferenciado por tipo de acomodação.
+Tudo com aprovação do gestor antes de reservar.
+
+10 hotéis cadastrados em 7 cidades.
+Categorias de quarto com preço definido.
+Alocação visual com verificação de ocupação.
+
+Não é controle por controle. É visibilidade pra decidir melhor.
+
+Quer ver? Me manda um oi.
