@@ -1,0 +1,9 @@
+Pitch Executivo – Plataforma de Gestão de Tecnologia, Contratos e Terceiros
+
+A intenção desta plataforma é centralizar e dar controle total sobre tudo o que passa pela área de Tecnologia, especialmente aquilo que gera custo recorrente, dependência de terceiros e risco financeiro para a empresa.
+
+Hoje, todas as ferramentas utilizadas pela equipe de Tecnologia — sistemas, serviços, licenças, implantações e contratos com fornecedores — passam diretamente pela minha gestão. Isso inclui negociação, análise de proposta, avaliação de custo, gestão contratual, acompanhamento de cláusulas, controle de vigência, renovações e decisões de continuidade ou encerramento.
+
+Embora contratos de valores mais elevados passem por validação da Diretoria, a gestão operacional e financeira do dia a dia desses contratos é centralizada comigo, inclusive a validação junto ao financeiro para liberação de pagamentos mensais.
+
+Essa plataforma nasceu exatamente dessa necessidade: ter visibilidade, rastreabilidade e controle real sobre contratos e terceiros, algo que os ERPs tradicionais não atendem de forma adequada, pois são focados na operação do negócio e não na gestão de serviços contratados.

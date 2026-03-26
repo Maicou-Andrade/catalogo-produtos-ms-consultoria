@@ -1,0 +1,17 @@
+PITCH EXECUTIVO – METAS, PROJETOS, ATIVIDADES E PERFORMANCE
+
+Essa ferramenta foi criada com base em um princípio simples de gestão: você só consegue gerenciar aquilo que você mede.
+
+A ideia não é apenas cadastrar projetos. O ponto de partida são as metas. Existem metas estratégicas vindas da diretoria, metas das áreas de negócio e metas da própria equipe de tecnologia. Todas passam por avaliação e aprovação, principalmente quando envolvem custo, impacto ou priorização. Isso garante alinhamento entre estratégia e execução desde o início.
+
+Uma vez aprovadas, essas metas se transformam em projetos com responsáveis definidos. Esses projetos se desdobram em atividades distribuídas entre diferentes pessoas e áreas. O responsável pelo projeto passa a coordenar essas entregas, garantindo que cada área responda pelo que foi assumido até a conclusão final.
+
+O grande ganho está no acompanhamento. A ferramenta permite acompanhar, em tempo real, o andamento dos projetos, identificar atrasos, atividades paradas, excesso de demandas concentradas em uma única pessoa e falhas de distribuição de tarefas. Isso permite agir antes do problema estourar, e não depois.
+
+Do ponto de vista de gestão de equipe, ela traz indicadores claros de performance. É possível avaliar quem entrega projetos, quem executa atividades, qual o tempo médio de entrega, quem está sobrecarregado, quem tem capacidade ociosa e quem já demonstra maturidade para assumir a gestão de um projeto sozinho.
+
+Com isso, a avaliação deixa de ser subjetiva. A empresa passa a ter base concreta para decisões como promoção, mudança de função, reconhecimento, desenvolvimento técnico ou necessidade de acompanhamento mais próximo. Tudo baseado em dados.
+
+Além disso, acompanhando mês a mês o volume de projetos e atividades, a diretoria consegue enxergar crescimento de demanda, aumento de complexidade e necessidade real de remanejamento ou ampliação da equipe, sempre sustentado por números e não por percepção.
+
+No final, essa ferramenta conecta estratégia à execução. Ela transforma metas em projetos, projetos em ações e ações em indicadores de performance, permitindo que a área de tecnologia evolua, inove e cresça com controle, previsibilidade e gestão profissional.
