@@ -1,0 +1,578 @@
+================================================================================
+PORTFOLIO COMPLETO — MAICOU ANDRADE | MS CONSULTORIA
+================================================================================
+Documento gerado em: 26/03/2026
+Fonte: Conversa completa com todo o material enviado
+================================================================================
+
+
+================================================================================
+SOBRE MAICOU ANDRADE
+================================================================================
+
+Nome: Maicou Santos Andrade
+Empresa: MS Consultoria
+Cargo atual: Gestor de Tecnologia — Nosso Atacarejo (Grupo que fatura ~R$ 1 bilhão/ano)
+Experiência: +15 anos implantando sistemas para supermercados
+Email: maicouandrade@msconsultoria.net.br
+Localização: Nordeste (RN/CE)
+
+Clientes atendidos:
+- Varejão Supermercados
+- Freitas Supermercado
+- AnaRisorlange
+- Rabelo Supermercado
+- Tetra Supermercado
+- Nosso Atacarejo (atual)
+
+Especialidades:
+- Soluções customizadas para varejo (supermercados e atacarejos)
+- Business Intelligence para operações de alto volume
+- Redução de custos baseada em dados e histórico
+- Integrações entre softwares, sites, CRM
+- Automação de processos operacionais
+- Gestão de tecnologia corporativa
+- Ferramentas sob medida para rotinas do dia a dia
+
+
+================================================================================
+LINKS IMPORTANTES
+================================================================================
+
+GitHub (Catálogo completo com imagens):
+https://github.com/Maicou-Andrade/catalogo-produtos-ms-consultoria
+
+Site dos projetos (identificado nas imagens):
+https://projetosnossoatacarejo.com.br
+
+Plataforma Spartto (WhatsApp Marketing):
+app-production-52d3.up.railway.app (Chamados Financeiros)
+
+Contato Spartto:
+Ragner Dias — ragner@spartto.com.br — +55 62 9663-7228
+
+
+================================================================================
+CATALOGO DE PRODUTOS — 9 SOLUÇÕES
+================================================================================
+
+
+--------------------------------------------------------------------------------
+PRODUTO 1: SISTEMA DE GESTÃO DE VIAGENS CORPORATIVAS
+--------------------------------------------------------------------------------
+Nome do sistema: Agenda de Veículos — Grupo Nosso Atacarejo
+Tipo: Sistema de Gestão de Viagens Corporativas
+
+Módulos:
+- Cadastro de Motoristas (filtro por loja, setor, nome, CPF, CNH)
+- Cadastro de Carros (20 veículos: 14 fixos + 6 compartilhados)
+- Agendamento de Viagens (dashboard completo com KPIs)
+- Agendas de Viagens (cards visuais por viagem)
+- Avisos de Caronas (mural de vagas, rankings, solicitação)
+- Relatórios Gerenciais (viagens, KM, taxa conclusão, motoristas)
+- Histórico de Viagens
+
+KPIs do sistema:
+- Lead Time Logística: 29h53min
+- Viagens em Cima da Hora: 38
+- Viagens Solo: 23 (44%) — meta <15%
+- Ocupação Média: 0.8 passag./viagem — meta >2.5
+- Aproveitamento de Vagas: 35% (capacidade: 260 lugares)
+- KM Total: 17.876km (Solo: 8.442 + Com passag: 9.434)
+
+Lojas com frota:
+- Loja Matriz: 14 carros
+- Loja Limoeiro do Norte: 3 carros
+- Loja Quixadá: 1 carro
+- Loja Assu: 2 carros
+
+Diferenciais:
+- Detecção automática de viagens duplicadas
+- Sistema de carona automático entre colaboradores
+- Solicitação de envio de encomendas entre filiais
+- Compartilhamento de viagens entre lojas
+
+Imagens disponíveis no GitHub:
+imagens/01-gestao-viagens/ (6 screenshots)
+
+
+--------------------------------------------------------------------------------
+PRODUTO 2: BI PARA ATACAREJO
+--------------------------------------------------------------------------------
+Nome do sistema: Apresentação MS — Business Intelligence
+Tipo: BI completo para gestão de supermercados e atacarejos
+
+Contexto:
+- Virada cultural: compra consciente orientada por dados
+- Operação de ~R$ 90 milhões/mês (~R$ 1 bilhão/ano)
+- Ticket médio: ~R$ 250
+- Arquitetura: Data Warehouse com extração de madrugada
+- 100% automatizado, sem custo adicional
+
+BLOCO PERFORMANCE:
+- Evolução de Performance (mês a mês, ano anterior vs atual)
+- Dashboard de Performance (20+ KPIs com meta e YoY)
+
+KPIs de Performance:
+- Receita Bruta: R$ 3.096.263 (Meta: R$ 3.650.207)
+- Margem Sem Oferta: 35,50%
+- Lucro Bruto: R$ 956.030
+- Cupons: 64.272
+- Compras: R$ 2.290.596
+- RCV: 73,98%
+- Ticket Médio: R$ 48,17
+- Ruptura Curva AB: 9,90% (Meta: 3,50%)
+- Cesta Média: 6,34
+- Cobertura Estoque: 33,57 dias
+- Venda/M²: R$ 2.064,18
+- Venda Sem Oferta: R$ 2.332.224 (75,32%)
+- Venda Com Oferta: R$ 764.039 (24,68%)
+- Sem Venda +30 Dias: R$ 346.906 (3.161 itens)
+
+BLOCO VENDAS:
+- Checkout (indicadores por loja, distribuição por ticket, comportamento semanal)
+- Comparativo (período anterior vs atual por setor)
+- Rentabilidade (impacto das ofertas, desempenho por setor/produto)
+- Vendas (análise com meta, margem, lucro por setor)
+
+BLOCO ESTOQUE:
+- Compras (CMV, RCV, performance orçado, por setor/fornecedor)
+  - Valor Compra: R$ 2.290.596
+  - CMV: R$ 2.140.233
+  - RCC: 107,03%
+
+- Excesso (perecíveis e não perecíveis, DDV, giro diário)
+  - Excesso Total: R$ 1.215.272 (54,89% do estoque)
+  - Excesso Perecíveis: R$ 140.007
+  - Excesso Não Perecíveis: R$ 890.167
+
+- Ruptura (GAP venda/lucro, por curva e setor)
+  - GAP Venda: R$ 547.279
+  - GAP Lucro: R$ 193.061
+  - Ruptura real: 9,9% (Meta: 4,25%)
+
+- Sem Giro (itens parados, estoque valor)
+  - GAP Venda: R$ 917.004
+  - GAP Lucro: R$ 266.039
+  - Estoque Valor: R$ 898.458
+  - 4.347 itens sem venda
+
+- Reposição (alertas automáticos, sugestão de compras)
+  - Alerta de Reposição: 2.124 itens
+  - 254 fornecedores
+  - Sugestão: 61.683 unidades (R$ 325.072)
+
+- Prevenção (quebra, perda, ajuste inventário, acuracidade)
+  - Perda Total: R$ -35.872.401
+  - Acuracidade: 0,2% (Meta: 95%)
+
+GESTÃO:
+- Controle de usuários com limitação de dados por perfil
+
+Filtros disponíveis em todos os módulos:
+Oferta, Loja, Mercadológico, Curva, Tipo de Venda, Fornecedor, Comprador, Custo
+
+Imagens disponíveis no GitHub:
+imagens/02-bi-atacarejo/ (14 screenshots)
+
+Texto de introdução:
+textos-introducao/introducao-bi.txt
+
+
+--------------------------------------------------------------------------------
+PRODUTO 3: SISTEMA DE GERENCIAMENTO DE CHAMADOS
+--------------------------------------------------------------------------------
+Tipo: Sistema de chamados técnicos com chat em tempo real e avaliação via WhatsApp
+
+Módulos:
+- Login (Google para TI, email/senha para externos, modo visitante)
+- Dashboard de Indicadores
+- Registro de Atendimento (chat em tempo real)
+- Avaliação (link via WhatsApp)
+- Dashboard de Avaliações e Rankings
+- Análise por Hora/Dia/Semana/Ano
+
+KPIs:
+- Atendimentos Internos: 311 total | 307 finalizados
+- Atendimentos Externos: 6 total | 6 finalizados
+- NPS Score: 60 (Excelente)
+- Satisfação Média: 4.6/5
+- Taxa de Resposta: 45%
+- Problemas Resolvidos: 100%
+- Média: 45.3 atendimentos/dia
+- Pico: 14h
+
+Top setores solicitantes:
+Frente de Loja (80), CRM/Fidelidade (36), Administrativo (32), Infraestrutura TI (19)
+
+Funcionalidades especiais:
+- Chat em tempo real entre atendente e solicitante
+- Avaliação pós-atendimento via link WhatsApp (nota, velocidade, cordialidade)
+- Ranking de atendente mais veloz e mais cordial
+- Top 3 do mês
+- NÃO É APENAS PARA TI — qualquer setor pode usar
+
+Imagens disponíveis no GitHub:
+imagens/03-gerenciamento-chamados/ (8 screenshots)
+
+Texto de introdução:
+textos-introducao/introducao-chamados.txt
+
+
+--------------------------------------------------------------------------------
+PRODUTO 4: SISTEMA DE GERENCIAMENTO DE PROJETOS E METAS
+--------------------------------------------------------------------------------
+Tipo: Gestão estratégica — metas → projetos → atividades → performance
+
+Módulos:
+- Login (Google, email/senha, visitante)
+- Cadastro de Metas (23 metas, fluxo aprovação diretoria)
+- Projetos (23 ativos, 33 total)
+- Lista de Projetos (detalhamento completo)
+- Atividades (149 ativas, 359 total, 186 concluídas)
+- Atividades ligadas a Projetos
+- Alertas do Sistema (atividades inativas >10 dias, projetos atrasados)
+- Dashboard Executivo
+- Relatório de Aprovação de Metas (auditoria)
+- Documento Técnico de Projeto (termo formal)
+
+Projetos reais em andamento:
+- Promoção Relâmpago no Caixa
+- Integração BigData — Comunicação com Clier
+- Frente de Caixa — Morada Nova
+- Implantação Plataforma BigData WhatsApp Web
+- Sistema de Agendamento de Pagamento
+- Estabilização RH-TOTVS
+- Escala Digital Automatizada
+- Kubo — Nosso Conhecimento (e-learning)
+
+Equipes:
+Product Manager, Desenvolvimento, Instrutora de Treinamentos, Frente de Caixa, Analista de Sistema, Secretaria Executiva
+
+Alertas ativos: 19 atividades + 9 projetos = 28 pendências
+
+Imagens disponíveis no GitHub:
+imagens/04-gerenciamento-projetos/ (12 screenshots)
+
+Texto de introdução:
+textos-introducao/introducao-projetos.txt
+
+
+--------------------------------------------------------------------------------
+PRODUTO 5: PORTAL DE GESTÃO DE CONTRATOS E TERCEIROS
+--------------------------------------------------------------------------------
+Tipo: Gestão contratual e de fornecedores de tecnologia
+
+Módulos:
+- Cadastro de Terceiros (20 cadastrados, 19 ativos)
+- Contratos (7 abas: dados gerais, vigência, financeiro, reajustes, setores, prestação, anexos)
+- Lançamentos de Contratos (evolução, indicadores, visão executiva)
+- Evolução de Saldo (saldo restante vs pago acumulado)
+- Renovação de Contratos
+- Solicitação de Serviço
+
+KPIs:
+- Terceiros por tipo: Fornecedor 17 (85%), Cliente 1, Parceiro 1, Ambos 1
+- Top serviços: Consultoria Sistema (5), CRM (2), ERP (2)
+- Total contratos 8 meses: R$ 1.221.669,65
+- Evolução mensal pago vs proposta rastreada
+
+Imagens disponíveis no GitHub:
+imagens/05-portal-contratos/ (4 screenshots)
+
+Texto de introdução:
+textos-introducao/introducao-contratos.txt
+
+
+--------------------------------------------------------------------------------
+PRODUTO 6: PLATAFORMA DE GESTÃO DE USO E CONSUMO
+--------------------------------------------------------------------------------
+Tipo: Controle de uso e consumo interno
+
+Módulos:
+- Dashboard (requisições, pedidos, produtos, status sistema)
+- Cadastros (lojas, departamentos, produtos, usuários)
+- Requisições (fluxo completo com aprovação)
+- Aprovações (pendentes, histórico)
+- Preparação de Pedidos
+- Entregas (aguardando, histórico, confirmação)
+- Crossdocking
+- Relatórios/Indicadores
+
+KPIs:
+- Total de Produtos: 3.412
+- Lojas Ativas: 8
+- Departamentos: 15
+- Tempo Abertura→Aprovação: 4.647 min
+- Tempo Aprovação→Pedido: 6.853 min
+- Tempo Pedido→Entrega: 6.225 min
+
+Lojas cadastradas:
+01-Matriz (RN), 02-S.Miguel (RN), 03-Limoeiro (CE), 04-Quixadá (CE), 05-Açu (RN), 06-Padaria (RN), 07-Morada (CE), 600-CD (RN)
+
+Fluxo de requisição:
+Pendente → Aprovado Gestor → Análise Uso e Consumo → Aprovado Preparação → Faturado → Transferência Rota → Entregue
+
+Imagens disponíveis no GitHub:
+imagens/06-uso-consumo/ (6 screenshots)
+
+Texto de introdução:
+textos-introducao/introducao-uso-consumo.txt
+
+
+--------------------------------------------------------------------------------
+PRODUTO 7: CHAMADOS FINANCEIROS (DIVERGÊNCIA DE PAGAMENTO)
+--------------------------------------------------------------------------------
+Tipo: Gestão de divergências de pagamento na frente de caixa
+URL: https://projetosnossoatacarejo.com.br
+URL app: https://app-production-52d3.up.railway.app
+
+Fluxo completo em 4 passos:
+1. Fiscal de Loja abre chamado em <2 min (sem login)
+2. Sistema gera número + envia link ao cliente via WhatsApp
+3. Conciliadora Bancária analisa (com/sem estorno)
+4. Gestor Financeiro executa estorno (PIX) e conclui
+
+Funcionalidades:
+- Cliente acompanha em tempo real sem login (pelo link do WhatsApp)
+- Timeline: Abertura → Analisando → Devolutiva → Concluído
+- Dashboard Admin com KPIs em tempo real
+- Lead Times: aceite (54min), análise (54min), encerramento (54min)
+- Templates WhatsApp editáveis
+- Gestão de usuários e lojas
+
+Perfis de acesso:
+- Fiscal de Loja: sem login
+- Conciliadora: conciliadorcartoes@nossoatacarejo.com.br / conciliadorbancario@nossoatacarejo.com.br
+- Gestor Financeiro: vitor.lima@nossoatacarejo.com.br
+- Admin: marcio@nossoatacarejo.com.br / admin@nossoatacarejo.com.br
+
+Imagens disponíveis no GitHub:
+imagens/07-chamados-financeiros/manual-completo.pdf (PDF 10 páginas)
+
+
+--------------------------------------------------------------------------------
+PRODUTO 8: SISTEMA DE CONTROLE DE HOSPEDAGEM
+--------------------------------------------------------------------------------
+Tipo: Gestão de hospedagem corporativa
+Marca: MS Consultoria — Controle de Hospedagem
+
+Módulos:
+- Painel Geral (hotéis, casas, colaboradores, pedidos)
+- Cadastros (colaboradores, operadores, setores, lojas, hotéis, casas)
+- Lançamento de Hospedagem (pedido, painel operador, ocupação visual)
+- Acompanhamentos
+- Relatórios e Indicadores
+- Relatório Swile (Alimentação)
+
+Hotéis cadastrados (10 em 7 cidades):
+- Hertz Hotel — Pau dos Ferros-RN
+- Hotel Anízio — Pau dos Ferros-RN
+- Hotel Bezerra — Limoeiro do Norte-CE
+- Hotel Classic — Limoeiro do Norte-CE
+- Hotel Mariana — Morada Nova-CE
+- Hotel Posto Santa Rita — São Miguel-RN
+- Hotel Serrano — São Miguel-RN
+- Monólitos — Quixadá-CE
+- Pousada Nascer do Sol — Açu-RN
+
+Categorias de quartos e preços:
+- Simples Dup (2 pessoas): R$ 180/noite
+- Simples Ind (1 pessoa): R$ 120/noite
+- Simples Trip (3 pessoas): R$ 240/noite
+- Suíte Dup (2 pessoas): R$ 210/noite
+- Suíte Ind (1 pessoa): R$ 150/noite
+- Suíte Tri (3 pessoas): R$ 270/noite
+
+Diferenciais:
+- Sugestão automática de hotel mais barato
+- Sugestão de quarto duplo/triplo pra redução de custo
+- Aprovação do gestor antes da reserva
+- Controle de diárias por cargo/colaborador
+- Relatório de alimentação (Swile) integrado
+
+KPIs:
+- 26 colaboradores cadastrados
+- Custo Total Quartos: R$ 4.171,05
+- 3 reservas, 15 diárias
+
+Imagens disponíveis no GitHub:
+imagens/08-controle-hospedagem/ (8 screenshots)
+
+
+--------------------------------------------------------------------------------
+PRODUTO 9: SPARTTO — WHATSAPP MARKETING
+--------------------------------------------------------------------------------
+Tipo: Plataforma de WhatsApp Marketing para supermercados e atacarejos
+Marca: Spartto
+Contato: Ragner Dias — ragner@spartto.com.br — +55 62 9663-7228
+
+Funcionalidades:
+- Disparo em massa sem bloqueios (entrega em 15 min)
+- Comunidades WhatsApp (gestão automatizada)
+- Campanhas programadas (por loja ou faixa de preço)
+- Chatbot/Assistente Virtual 24/7
+- Story/Status automatizado
+- Dashboard com métricas em tempo real
+- Múltiplas conexões (redundância)
+- Suporte 12/7
+
+Menu do Chatbot:
+1. Ofertas da Semana
+2. Clube de Vantagens
+3. Aplicativo do Supermercado
+4. Redes Sociais
+5. Cartão Cliente
+6. Outras Solicitações
+7. Falar com um Atendente
+
+Simulação de impacto:
+- Supermercado: 300 contatos/dia, ticket R$ 125 → perda potencial R$ 123.000/mês
+- Atacarejo: 200 contatos/dia, ticket R$ 350 → perda potencial R$ 231.000/mês
+
+Imagens disponíveis no GitHub:
+imagens/09-spartto-whatsapp/ (PDF speech completo)
+
+
+================================================================================
+PRODUTOS ADICIONAIS MENCIONADOS (ainda sem screenshots)
+================================================================================
+
+- Site para Supermercado com promoções em tempo real integrado a CRM (Mercafácil)
+- Workflow de Cadastro de Produto (fornecedor solicita → gestor avalia → equipe cadastra)
+- Chat Corporativo (registro formal entre setores, substituindo WhatsApp informal)
+- Portal/Intranet (imagens em imagens/extras/)
+
+
+================================================================================
+REPOSITÓRIO GITHUB — ESTRUTURA COMPLETA
+================================================================================
+
+URL: https://github.com/Maicou-Andrade/catalogo-produtos-ms-consultoria
+
+Arquivos:
+├── README.md (visão geral do catálogo)
+├── estrategia-comunidade-whatsapp.docx (estratégia 12 semanas)
+├── mensagem-boas-vindas.txt (versão inicial)
+├── mensagem-boas-vindas-final.txt (versão aprovada)
+├── produtos/
+│   ├── 01-gestao-viagens.md
+│   ├── 02-bi-atacarejo.md
+│   ├── 03-gerenciamento-chamados.md
+│   ├── 04-gerenciamento-projetos.md
+│   ├── 05-portal-contratos.md
+│   ├── 06-uso-consumo.md
+│   ├── 07-chamados-financeiros.md
+│   ├── 08-controle-hospedagem.md
+│   └── 09-spartto-whatsapp.md
+├── imagens/
+│   ├── 01-gestao-viagens/ (6 arquivos)
+│   ├── 02-bi-atacarejo/ (14 arquivos)
+│   ├── 03-gerenciamento-chamados/ (8 arquivos)
+│   ├── 04-gerenciamento-projetos/ (12 arquivos)
+│   ├── 05-portal-contratos/ (4 arquivos)
+│   ├── 06-uso-consumo/ (6 arquivos)
+│   ├── 07-chamados-financeiros/ (1 PDF manual)
+│   ├── 08-controle-hospedagem/ (8 arquivos)
+│   ├── 09-spartto-whatsapp/ (PDFs)
+│   └── extras/ (portal, intranet)
+└── textos-introducao/
+    ├── introducao-bi.txt
+    ├── introducao-chamados.txt
+    ├── introducao-contratos.txt
+    ├── introducao-projetos.txt
+    ├── introducao-uso-consumo.txt
+    └── introducao-intranet-portal.txt
+
+Total: 87+ arquivos
+
+
+================================================================================
+ESTRATÉGIA COMUNIDADE WHATSAPP — RESUMO
+================================================================================
+
+Objetivo: Vender produtos diretamente para donos de supermercado
+Base: Já possui contatos
+Frequência: 2x por semana (terça e quinta)
+Fórmula: Gancho → Dor → Virada → CTA
+Princípio: "Não venda o sistema. Venda o problema que ele resolve."
+
+Calendário 12 semanas:
+- Semana 1: BI (Excesso de estoque)
+- Semana 2: Chamados Financeiros
+- Semana 3: Spartto WhatsApp Marketing
+- Semana 4: Gestão de Viagens
+- Semana 5: Gerenciamento de Chamados
+- Semana 6: BI (Ruptura) — repete
+- Semana 7: Uso e Consumo
+- Semana 8: Projetos e Metas
+- Semana 9: Chamados Financeiros — repete + oferta
+- Semana 10: Contratos e Terceiros
+- Semana 11: Controle de Hospedagem
+- Semana 12: Spartto — repete + oferta geral de fechamento
+
+Horários recomendados:
+- Terça: 7h-8h (antes de abrir a loja)
+- Quinta: 12h-13h (horário de almoço)
+
+
+================================================================================
+MENSAGEM DE BOAS-VINDAS (VERSÃO FINAL APROVADA)
+================================================================================
+
+Seja bem-vindo.
+
+Meu nome é Maicou Andrade. Sou do Nordeste, assim como você.
+
+Há mais de 15 anos eu implanto sistemas para supermercados. Comecei dentro de loja, resolvendo problema no caixa, no estoque, na retaguarda. Passei pelo Varejão Supermercados, Freitas, AnaRisorlange, Rabelo e Tetra. Cada um me ensinou uma coisa que empresa grande de tecnologia nunca vai aprender: o que funciona de verdade pra quem abre a porta da loja às 6h da manhã.
+
+Hoje tenho minha própria empresa — a MS Consultoria — e atuo como Gestor de Tecnologia do Nosso Atacarejo, uma operação de R$ 1 bilhão por ano. Tudo que eu crio nasce de dentro da operação, não de um escritório bonito em São Paulo.
+
+Criei essa comunidade porque acredito numa coisa simples:
+
+Dono de supermercado não precisa de software bonito.
+Precisa de ferramenta que mostra onde o dinheiro está indo embora.
+
+E é exatamente isso que eu faço. Construo ferramentas sob medida — do estoque ao financeiro, da logística ao WhatsApp — que leem os dados da sua operação e te mostram onde cortar, onde investir e onde você está perdendo dinheiro sem saber.
+
+Porque a verdade é uma só: se você não tem controle, não tem como reduzir custo. E se não reduz custo, não cresce. Simples assim.
+
+Aqui nessa comunidade, toda semana você vai receber:
+
+→ Indicadores reais de operação de atacarejo
+→ Dicas de gestão que eu uso no dia a dia
+→ Ferramentas que mostram o que o ERP não mostra
+→ Acesso direto a mim, sem intermediário
+
+Sem spam. Sem enrolação. Só conteúdo de quem vive o varejo.
+
+Eu sei que o mercado te empurra pra contratar empresa de fora, que nem sabe o nome da tua cidade. Eu tô aqui do lado. Falo a tua língua. E construo solução com quem entende que no varejo, cada centavo conta.
+
+Fica por aqui. Vai valer a pena.
+
+Maicou Andrade
+MS Consultoria
+
+
+================================================================================
+MAPA DE PRODUTOS POR DOR DO CLIENTE
+================================================================================
+
+"Meu estoque tá sempre errado" → BI (Excesso + Ruptura)
+"Compro demais e não sei por quê" → BI (Compras + Reposição)
+"Cliente reclamou que pagou e não levou" → Chamados Financeiros
+"Mando oferta no WhatsApp e demora horas" → Spartto
+"Não sei se minha equipe de TI é produtiva" → Gerenciamento de Chamados
+"Tenho projetos que nunca terminam" → Gerenciamento de Projetos
+"Gasto muito com viagem e hotel" → Viagens + Hospedagem
+"Não sei quanto pago de contrato por mês" → Portal de Contratos
+"Material de limpeza some e ninguém sabe" → Uso e Consumo
+"Quero vender mais pelo WhatsApp" → Spartto
+"Preciso de dados pra tomar decisão" → BI (Performance)
+"Setores não se comunicam e a bomba estoura" → Chat Corporativo / Chamados
+"Fornecedor pede cadastro e demora dias" → Workflow de Cadastro
+
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================
